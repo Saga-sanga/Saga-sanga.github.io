@@ -1429,7 +1429,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.65);
+		color: rgb(255, 255, 255);
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 13pt;
 		font-weight: 200;
@@ -1612,7 +1612,7 @@
 	}
 
 	header p {
-		color: rgba(255, 255, 255, 0.35);
+		color: rgba(255, 255, 255, 0.65);
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -2588,7 +2588,7 @@
 	}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.65);
+			color: rgba(255, 255, 255, 0.75);
 		}
 
 		#header .avatar {
