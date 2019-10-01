@@ -1409,7 +1409,7 @@
 	}
 
 	body {
-		background-color: #6d76b7;
+		background-color: #555fa7; /*#6d76b7*/
 		/*background-image: url("../../images/bg.jpg");*/
 		background-size: cover;
 		background-position: top center;
