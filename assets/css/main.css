@@ -2442,7 +2442,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.thumbnails {
-				margin: 0 0 2em -1.5em;
+				margin: 0 0 0.5em -1.5em;
 			}
 
 				.thumbnails a {
@@ -2470,7 +2470,7 @@
 			}
 
 				.thumbnails a {
-					margin: 0 0 2em 0 !important;
+					margin: 0 0 0.5em 0 !important;
 				}
 
 				.thumbnails > div {
