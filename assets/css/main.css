@@ -1476,7 +1476,7 @@
 		color: #ffffff;
 		font-weight: 200;
 		line-height: 1.5;
-		margin: 0 0 1em 0;
+		margin: 0 0 0 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2233,7 +2233,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #ff7c96;
+			background-color: #33ccff;
 		}
 
 		input[type="submit"]:active,
@@ -2241,7 +2241,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #ff496e;
+			background-color: #33ccff;
 		}
 
 		input[type="submit"].icon,
@@ -2325,7 +2325,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #FF6382;
+			background-color: #33ccff;
 			color: !important;
 		}
 
@@ -2334,7 +2334,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #ff7c96;
+				background-color: #33ccff;
 			}
 
 			input[type="submit"].special:active,
@@ -2419,7 +2419,7 @@
 
 			.thumbnails a:hover {
 				background-color: rgba(255, 255, 255, 0.25);
-				box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.25), 0 0 0.5em 0 #FF6382;
+				box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.25), 0 0 0.5em 0 #99ccff;
 			}
 
 		.thumbnails > div {
