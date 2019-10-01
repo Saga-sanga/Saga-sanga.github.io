@@ -1,0 +1,23 @@
+span img {
+  opacity: 0.9;
+}
+
+.title-text {
+  font-weight: 600;
+  font-size: 3em;
+}
+
+.info-text {
+  text-align: center;
+  font-weight: 500;
+  font-size: 2em;
+}
+
+p.info-text {
+  margin-top: 2em;
+  margin-bottom: 0;
+}
+
+.no-bot-margin { 
+  margin-bottom: 0.5em !important;
+}
