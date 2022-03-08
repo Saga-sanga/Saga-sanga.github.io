@@ -4,6 +4,20 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+var pop_resume = document.querySelector("a.fa-paperclip");
+var pop_resume_after = document.querySelector("#pop-resume");
+
+function popup_text() {
+  pop_resume_after.style.visibility = "visible";
+}
+
+function popup_text_revert() {
+  pop_resume_after.style.visibility = "hidden";
+}
+
+pop_resume.addEventListener("mouseover", popup_text);
+pop_resume.addEventListener("mouseout", popup_text_revert);
+
 $(function() {
 
 	// Vars.
